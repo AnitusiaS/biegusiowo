@@ -29,14 +29,15 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
+
+          <div class="disqus">
+            {% include disqus.html %}
+          </div>
         </section>
 
         <aside id="sidebar">
          
-        </aside>
-        <div class="disqus">
-          {% include disqus.html %}
-        </div>
+        </aside>        
       </div>     
     </div>
     <footer>
