@@ -4,3 +4,5 @@ description: Blog biegaczki.
 author: Anita
 author_email: anita.str@wp.pl
 repository:  'AnitusiaS/biegusiowo'
+
+plugins: ['jekyll-twitter-plugin']

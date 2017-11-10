@@ -1,9 +1,16 @@
 ---
 layout:  post
 comments: true
-title:   "Przeżyłam półmaraton"
-date:	  2017-10-01 10:30:00
+published: true
+title: "Przeżyłam półmaraton"
+date: 2017-10-01 10:30:00
+type: post
 categories:	bieganie polmaraton
+author:  
+  email: anita.str@wp.pl
+  display_name: Anita Owsiana
+  first_name: Anita
+  last_name: Owsiana
 ---
 
 
