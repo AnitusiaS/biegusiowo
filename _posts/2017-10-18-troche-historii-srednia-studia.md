@@ -1,7 +1,7 @@
 ---
 layout:  post
 comments: true
-published: false
+published: true
 title: "Trochę historii - średnia i studia"
 date: 2017-10-18 20:20:00
 type: post
